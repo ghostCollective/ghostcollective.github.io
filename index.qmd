@@ -1,0 +1,29 @@
+---
+title: "Games of Horror for Open Science Training"
+about: 
+  id: hero-heading
+  template: solana
+  image: img/ghost.png
+  links: 
+    - icon: github
+      aria-label: GitHub
+      text: GitHub
+      href: https://github.com/ghostCollective
+---
+
+<br><br> 
+
+::: {#hero-heading}
+
+The GHOST collective is a group of Open Science enthusiasts from
+universities across the Netherlands. We make Open Science games
+that can be used as training materials or just for fun.
+
+:::
+
+## Contributors
+
+A tribute to all of the wonderful people who have been involved
+with the games!
+
+{{< include _contributors.md >}}

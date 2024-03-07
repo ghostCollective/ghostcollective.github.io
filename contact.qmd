@@ -1,0 +1,3 @@
+## Form to request games
+
+{{< include partials/contact-form.html >}}
