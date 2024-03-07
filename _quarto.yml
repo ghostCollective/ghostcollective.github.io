@@ -17,6 +17,7 @@ website:
 
   navbar:
     title: false
+    logo: img/ghost-logo.png
     left:
       - href: index.qmd
         text: "GHOST"
@@ -32,6 +33,7 @@ website:
 format:
   html:
     theme: ghost.scss
+    css: styles.css
     toc: false
 
 
