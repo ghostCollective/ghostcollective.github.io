@@ -10,17 +10,10 @@ website:
   repo-actions: [edit, issue]
   page-footer: 
     center: Powered by Quarto and a love for Open Science
-    right: 
-      - icon: github
-        aria-label: GitHub
-        href: https://github.com/ghostCollective
 
   navbar:
     title: false
     logo: img/ghost-logo.png
-    left:
-      - href: index.qmd
-        text: "GHOST"
     right: 
 #      - href: games.qmd
 #        text: Games
