@@ -1,5 +1,42 @@
 /*-- scss:defaults --*/
 
+// colours
+$black: #080305;
+$white: #fff;
 
+$body-bg: $white;
+$body-color: $black;
+
+$navbar-bg: $black;
+$navbar-fg: $white;
 
 /*-- scss:rules --*/
+
+// webforms
+
+input,
+textarea {
+  display: block;
+  width: 100%;
+  padding: .375rem .75rem;
+  font-weight: 400;
+  //line-height: 1.5;
+  color: $black;
+  //background-color: $white;
+  //background-clip: padding-box;
+  border: 1px solid #dee2e6;
+  border-radius: .25rem;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.btn {
+  color: $white;
+  background-color: $black;
+  border-color: transparent;
+}
+
+.btn:hover {
+   background-color: rgba($black, 0.7);
+   transition: 0.7s;
+   border-color: transparent;
+}

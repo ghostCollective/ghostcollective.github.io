@@ -1,22 +1,30 @@
 <form action="https://api.sheetmonkey.io/form/3ptqxFrJLuuBDFC9nYfw3" method="post">
     <!-- Put HTML input fields in here and see how they fill up your sheet -->
-    <h3>Basic information</h3>
-    <label>Name:&emsp;<input type="text" name="Name" required /></label>
-    <br><br>
-    <label>Email:&emsp;<input type="email" name="Email" required /></label>
-    <br><br>
-    <label>Postal address:</label>
+    <fieldset>
+      <legend>Basic information</legend>
+      <label>Name</label>
+      <input type="text" name="Name" required />
+      <br>
+      <label>Email</label>
+      <br>
+      <input type="email" name="Email" required />
+      <br>
+      <label>Postal address</label>
+      <textarea id="postal" name="Post" rows="4" cols="50"></textarea>
+    </fieldset>
     <br>
-    <textarea id="postal" name="Post" rows="4" cols="50"></textarea>    
-    <h3>Games</h3>
-    <h4>How many games would you like?</h4>
-    <label>Open Science Against Humanity:&emsp;<input type="number" min="0" placeholder="0" name="OSAH"/></label>
-    <br><br>
-    <label>Open Loves Science:&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<input type="number" min="0" placeholder="0" name="OlovesS"/></label>
-    <br><br>
-    <h4>What is the reason you are requesting games?</h4>
-    <textarea id="reason" name="Reason" rows="4" cols="50"></textarea>
-    <br><br>
+    <fieldset>
+      <legend>Requested games</legend>
+      <label for="OSAH">Open Science Against Humanity</label>
+      <input id="OSAH" type="number" min="0" placeholder="0" name="OSAH"/>
+      <br>
+      <label for="OlovesS">Open Loves Science</label>
+      <input id="OlovesS" type="number" min="0" placeholder="0" name="OlovesS"/>
+      <br>
+      <label>What is the reason you are requesting games?</label>
+      <textarea id="reason" name="Reason" rows="4" cols="50"></textarea>
+    </fieldset>
+    <br>
     <input type="hidden" name="Created" value="x-sheetmonkey-current-date-time" />
-    <input type="submit" value="Submit" />
+    <input class="btn btn-primary" type="submit" value="Submit" />
   </form>

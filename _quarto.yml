@@ -17,8 +17,14 @@ website:
     right: 
 #      - href: games.qmd
 #        text: Games
-      - href: contact.qmd
-        text: Contact
+      - text: Contact
+        menu:
+          - text: Contact Us
+            href: contact.qmd
+          - text: Request games
+            href: contact-request.qmd
+          - text: Submit game idea
+            href: contact-idea.qmd
       - icon: github
         aria-label: GitHub
         href: https://github.com/ghostCollective

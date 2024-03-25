@@ -7,18 +7,11 @@
     "text": "List of games"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Games of Horror for Open Science Training",
+    "objectID": "contact-request.html",
+    "href": "contact-request.html",
+    "title": "Form to request games",
     "section": "",
-    "text": "Name:   Email:   Postal address: \n\n\n\nOpen Science Against Humanity:   Open Loves Science:"
-  },
-  {
-    "objectID": "contact.html#form-to-request-games",
-    "href": "contact.html#form-to-request-games",
-    "title": "Games of Horror for Open Science Training",
-    "section": "",
-    "text": "Name:   Email:   Postal address: \n\n\n\nOpen Science Against Humanity:   Open Loves Science:"
+    "text": "Form to request games\nYour data is transferred to a private Google Sheet via Sheet Monkey. You can see what information Sheet Monkey collects here.\n\n\n\nBasic information Name   Email    Postal address\n\n\n\n\nRequested games Open Science Against Humanity   Open Loves Science   What is the reason you are requesting games?"
   },
   {
     "objectID": "success.html",
@@ -33,6 +26,20 @@
     "title": "Games of Horror for Open Science Training",
     "section": "",
     "text": "Thank you for your interest! We will get back to you as soon as possible."
+  },
+  {
+    "objectID": "contact-idea.html",
+    "href": "contact-idea.html",
+    "title": "Submit an idea for a game",
+    "section": "",
+    "text": "Submit an idea for a game\nUnder construction. In the meantime, you can contact us at rdm@vu.nl."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nFor general inquiries, you can contact us at rdm@vu.nl."
   },
   {
     "objectID": "index.html#contributors",

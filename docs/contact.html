@@ -52,6 +52,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -60,21 +61,35 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./img/ghost-logo.png" alt="" class="navbar-logo">
+    </a>
+  </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
-<span class="menu-text">GHOST</span></a>
-  </li>  
-</ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link active" href="./contact.html" aria-current="page"> 
-<span class="menu-text">Contact</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-contact" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Contact</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-contact">    
+        <li>
+    <a class="dropdown-item" href="./contact.html">
+ <span class="dropdown-text">Contact Us</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./contact-request.html">
+ <span class="dropdown-text">Request games</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./contact-idea.html">
+ <span class="dropdown-text">Submit game idea</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/ghostCollective"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
@@ -98,28 +113,9 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="form-to-request-games" class="level2">
-<h2 class="anchored" data-anchor-id="form-to-request-games">Form to request games</h2>
-<form action="https://api.sheetmonkey.io/form/3ptqxFrJLuuBDFC9nYfw3" method="post">
-<!-- Put HTML input fields in here and see how they fill up your sheet -->
-<h3 class="anchored">
-Basic information
-</h3>
-<label>Name: <input type="text" name="Name" required=""></label> <br><br> <label>Email: <input type="email" name="Email" required=""></label> <br><br> <label>Postal address:</label> <br>
-<textarea id="postal" name="Post" rows="4" cols="50"></textarea>
-<h3 class="anchored">
-Games
-</h3>
-<h4 class="anchored">
-How many games would you like?
-</h4>
-<label>Open Science Against Humanity: <input type="number" min="0" placeholder="0" name="OSAH"></label> <br><br> <label>Open Loves Science:&nbsp;      <input type="number" min="0" placeholder="0" name="OlovesS"></label> <br><br>
-<h4 class="anchored">
-What is the reason you are requesting games?
-</h4>
-<textarea id="reason" name="Reason" rows="4" cols="50"></textarea>
-<br><br> <input type="hidden" name="Created" value="x-sheetmonkey-current-date-time"> <input type="submit" value="Submit">
-</form>
+<section id="contact" class="level1">
+<h1>Contact</h1>
+<p>For general inquiries, you can contact us at <a href="mailto:rdm@vu.nl">rdm@vu.nl</a>.</p>
 
 
 </section>
@@ -522,14 +518,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <p>Powered by Quarto and a love for Open Science</p>
 <div class="toc-actions"><ul><li><a href="https://github.com/ghostCollective/ghostcollective.github.io/edit/main/contact.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/ghostCollective/ghostcollective.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/ghostCollective">
-      <i class="bi bi-github" role="img" aria-label="GitHub">
-</i> 
-    </a>
-  </li>  
-</ul>
+      &nbsp;
     </div>
   </div>
 </footer>
