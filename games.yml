@@ -2,7 +2,7 @@
   description: |
     The Data Horror Escape Room is an online game
     to explore the tricks and treats of research data management.
-  image: https://lh4.googleusercontent.com/REqMAH8FQBie4NxCPSeih8g44uJH4r8byvDRdZzCO6PBuceASniwqHADZyDfXMNboLSInJ7ie7_dn85UgYd5xww=w16383
+  image: img/data-horror.jpg
   path: https://sites.google.com/vu.nl/datahorror/home
   categories: [RDM, Escape Room]
 - title: "Software Horror Escape Room"
