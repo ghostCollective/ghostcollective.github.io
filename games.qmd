@@ -13,3 +13,5 @@ listing:
   contents: games.yml
 ---
 
+To request games, use [this form](/contact-request.qmd)
+
