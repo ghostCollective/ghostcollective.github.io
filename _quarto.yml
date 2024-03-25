@@ -15,8 +15,8 @@ website:
     title: false
     logo: img/ghost-logo.png
     right: 
-#      - href: games.qmd
-#        text: Games
+      - href: games.qmd
+        text: Games
       - text: Contact
         menu:
           - text: Contact Us

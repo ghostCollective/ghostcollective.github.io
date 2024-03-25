@@ -1,0 +1,27 @@
+- title: "Data Horror Escape Room"
+  description: |
+    The Data Horror Escape Room is an online game
+    to explore the tricks and treats of research data management.
+  image: https://lh4.googleusercontent.com/REqMAH8FQBie4NxCPSeih8g44uJH4r8byvDRdZzCO6PBuceASniwqHADZyDfXMNboLSInJ7ie7_dn85UgYd5xww=w16383
+  path: https://sites.google.com/vu.nl/datahorror/home
+  categories: [RDM, Escape Room]
+- title: "Software Horror Escape Room"
+  description: |
+    The Software Horror Escape Room is an online game
+    to explore the tricks and treats of research software management.
+  image: https://github.com/NLeSC/softwarehorrorgame/blob/main/images/horrorVu.png?raw=true
+  path: https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html
+  categories: [Research Software, Escape Room]
+- title: "Open Science Against Humanity"
+  description: |
+    Open Science Against Humanity is a card game
+    based on Cards Against Humanity, but with an
+    Open Science twist!
+  path: https://github.com/ubvu/OpenScienceAgainstHumanity
+  categories: [Cards]
+- title: "Open ❤ Science"
+  description: |
+    The Software Horror Escape Room is an online game
+    to explore the tricks and treats of research software management.
+  path: https://nlesc.github.io/open-loves-science/
+  categories: [Cards]

@@ -1,0 +1,15 @@
+---
+title: Games
+listing: 
+  type: grid
+  id: games
+  categories: true
+  grid-columns: 2
+  grid-item-border: true
+  fields: 
+    - image
+    - title
+    - description
+  contents: games.yml
+---
+
