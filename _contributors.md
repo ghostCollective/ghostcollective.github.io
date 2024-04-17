@@ -34,3 +34,14 @@ tools that can make their work more reproducible.
 - Contributed to: Data Horror Escape Room, Open Science Escape Room, Software Horror Escape Room, Open Science Against Humanity and Open Loves Science
 
 I am a Data Steward in the VU University Library and have a background in history. I consult researchers about good Data Management practices for their research and try to promote Open Science along the way. One of my most successful moments at work was when a researcher concluded that writing good documentation is not just good for reproducibility purposes, but would also make it easier for them to remind themselves what they did.
+
+
+### Stephanie van de Sandt
+
+- Affiliation: Vrije Universiteit Amsterdam
+- Role: GHOST member, Training Coordinator
+- ORCID: [0000-0002-9576-1974](https://orcid.org/0000-0002-9576-1974)
+- Favourite game: Mansions of Madness, Sleeping Gods, Castles of Burgundy, ... [my game collection on BGG](https://boardgamegeek.com/collection/user/vanSteph)
+- Contributed to: Software Horror Escape Room, Open Science Against Humanity, Open Loves Science
+
+I work as an OS & RDM training coordinator at the VU University Library with a background in Library & Information Science. Supporting researchers by providing training so that they can help themselves is essential for my job, but I believe that training does not necessarily need to be bland and boring. Developing GHOST gamified training resources was not only a great learning experience for myself, but also helps to make our workshops more attractive and to raise awareness around OS, RDM, and Software Management.
