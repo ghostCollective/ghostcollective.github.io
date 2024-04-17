@@ -7,7 +7,7 @@ to the file alphabetically by last name.
 - Affiliation: A University
 - Role: Doer of things
 - ORCID: [0000-0001-2345-6789](url-to-profile)
-- Favourite game: Go Fish!
+- Favourite game: Go Fish! (include boardgamegeek profile here, if applicable)
 - Contributed to: [game developed by GHOST]
 
 Something about me.
