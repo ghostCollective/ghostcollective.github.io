@@ -24,3 +24,13 @@ Something about me.
 I (almost) have a PhD in archaeological sciences, and I work as a Data Steward at TU Delft. I enjoy
 promoting Open Science in my field and applying OS practises to my own research, as well as training researchers to use
 tools that can make their work more reproducible.
+
+### Elisa Rodenburg
+
+- Affiliation: Vrije Universiteit Amsterdam
+- Role: GHOST member, Data Steward
+- ORCID: [0000-0001-6068-9792](https://orcid.org/0000-0001-6068-9792)
+- Favourite game: [Beverbende or Beaver Gang](https://www.ai.rug.nl/mas/finishedprojects/2012/beverbende/www.anitadrenthen.nl/Studie/MAS/gamerules.html)
+- Contributed to: Data Horror Escape Room, Open Science Escape Room, Software Horror Escape Room, Open Science Against Humanity and Open Loves Science
+
+I am a Data Steward in the VU University Library and have a background in history. I consult researchers about good Data Management practices for their research and try to promote Open Science along the way. One of my most successful moments at work was when a researcher concluded that writing good documentation is not just good for reproducibility purposes, but would also make it easier for them to remind herself what they did.
