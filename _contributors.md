@@ -45,3 +45,14 @@ I am a Data Steward in the VU University Library and have a background in histor
 - Contributed to: Software Horror Escape Room, Open Science Against Humanity, Open Loves Science
 
 I work as an OS & RDM training coordinator at the VU University Library with a background in Library & Information Science. Supporting researchers by providing training so that they can help themselves is essential for my job, but I believe that training does not necessarily need to be bland and boring. Developing GHOST gamified training resources was not only a great learning experience for myself, but also helps to make our workshops more attractive and to raise awareness around OS, RDM, and Software Management.
+
+
+### Stefan Kirsch
+
+ Affiliation: Tilburg University
+- Role: GHOST member, Data Steward
+- ORCID: [0009-0009-6939-411X](https://orcid.org/0009-0009-6939-411X)
+- Favourite game: Dixit
+- Contributed to: Open Science Against Humanity, Open ♥ Science
+
+I have a PhD in Mechanical Engineering and I support researchers with scientific software engineering as well as making their workflows reproducible.
