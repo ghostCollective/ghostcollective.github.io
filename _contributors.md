@@ -49,7 +49,7 @@ I work as an OS & RDM training coordinator at the VU University Library with a b
 
 ### Stefan Kirsch
 
- Affiliation: Tilburg University
+- Affiliation: Tilburg University
 - Role: GHOST member, Data Steward
 - ORCID: [0009-0009-6939-411X](https://orcid.org/0009-0009-6939-411X)
 - Favourite game: Dixit
