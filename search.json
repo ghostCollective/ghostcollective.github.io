@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "games.html",
-    "href": "games.html",
-    "title": "Games",
-    "section": "",
-    "text": "To request games, use this form\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Horror Escape Room\n\n\nThe Data Horror Escape Room is an online game to explore the tricks and treats of research data management.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware Horror Escape Room\n\n\nThe Software Horror Escape Room is an online game to explore the tricks and treats of research software management.\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Escape Room\n\n\nThe Open Science Escape Room is an online game to explore the tricks and treats of Open Science.\n\n\n\n\n\n\n\n\n\n\nOpen Science Against Humanity\n\n\nOpen Science Against Humanity is a card game based on Cards Against Humanity, but with an Open Science twist!\n\n\n\n\n\n\n\n\n\n\nOpen ❤ Science\n\n\nOpen ❤ Science is an educational card game similar to Apples to Apples. It is designed to spark playful yet insightful dialogues about the Open Science movement.\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "contact-idea.html",
-    "href": "contact-idea.html",
-    "title": "Submit an idea for a game",
-    "section": "",
-    "text": "Submit an idea for a game\nUnder construction. In the meantime, you can contact us at rdm@vu.nl."
+    "objectID": "index.html#contributors",
+    "href": "index.html#contributors",
+    "title": "Games of Horror for Open Science Training",
+    "section": "Contributors",
+    "text": "Contributors\nA tribute to all of the wonderful people who have been involved with the games!\n\n\nBjørn Peare Bartholdy\n\nAffiliation: TU Delft\nRole: GHOST member, Data Steward\nORCID: 0000-0003-3985-1016\nFavourite game: Ticket to Ride\nContributed to: Open Loves Science\n\nI (almost) have a PhD in archaeological sciences, and I work as a Data Steward at TU Delft. I enjoy promoting Open Science in my field and applying OS practises to my own research, as well as training researchers to use tools that can make their work more reproducible.\n\n\nElisa Rodenburg\n\nAffiliation: Vrije Universiteit Amsterdam\nRole: GHOST member, Data Steward\nORCID: 0000-0001-6068-9792\nFavourite game: Beverbende or Beaver Gang\nContributed to: Data Horror Escape Room, Open Science Escape Room, Software Horror Escape Room, Open Science Against Humanity and Open Loves Science\n\nI am a Data Steward in the VU University Library and have a background in history. I consult researchers about good Data Management practices for their research and try to promote Open Science along the way. One of my most successful moments at work was when a researcher concluded that writing good documentation is not just good for reproducibility purposes, but would also make it easier for them to remind themselves what they did.\n\n\nStephanie van de Sandt\n\nAffiliation: Vrije Universiteit Amsterdam\nRole: GHOST member, Training Coordinator\nORCID: 0000-0002-9576-1974\nFavourite game: Mansions of Madness, Sleeping Gods, Castles of Burgundy, … my game collection on BGG\nContributed to: Software Horror Escape Room, Open Science Against Humanity, Open Loves Science\n\nI work as an OS & RDM training coordinator at the VU University Library with a background in Library & Information Science. Supporting researchers by providing training so that they can help themselves is essential for my job, but I believe that training does not necessarily need to be bland and boring. Developing GHOST gamified training resources was not only a great learning experience for myself, but also helps to make our workshops more attractive and to raise awareness around OS, RDM, and Software Management.\n\n\nStefan Kirsch\n\nAffiliation: Tilburg University\nRole: GHOST member, Data Steward\nORCID: 0009-0009-6939-411X\nFavourite game: Dixit\nContributed to: Open Science Against Humanity, Open ♥ Science\n\nI have a PhD in Mechanical Engineering and I support researchers with scientific software engineering as well as making their workflows reproducible."
   },
   {
     "objectID": "contact.html",
@@ -21,18 +14,18 @@
     "text": "Contact\nFor general inquiries, you can contact us at rdm@vu.nl."
   },
   {
-    "objectID": "index.html#contributors",
-    "href": "index.html#contributors",
-    "title": "Games of Horror for Open Science Training",
-    "section": "Contributors",
-    "text": "Contributors\nA tribute to all of the wonderful people who have been involved with the games!\n\n\nBjørn Peare Bartholdy\n\nAffiliation: TU Delft\nRole: GHOST member, Data Steward\nORCID: 0000-0003-3985-1016\nFavourite game: Ticket to Ride\nContributed to: Open Loves Science\n\nI (almost) have a PhD in archaeological sciences, and I work as a Data Steward at TU Delft. I enjoy promoting Open Science in my field and applying OS practises to my own research, as well as training researchers to use tools that can make their work more reproducible.\n\n\nElisa Rodenburg\n\nAffiliation: Vrije Universiteit Amsterdam\nRole: GHOST member, Data Steward\nORCID: 0000-0001-6068-9792\nFavourite game: Beverbende or Beaver Gang\nContributed to: Data Horror Escape Room, Open Science Escape Room, Software Horror Escape Room, Open Science Against Humanity and Open Loves Science\n\nI am a Data Steward in the VU University Library and have a background in history. I consult researchers about good Data Management practices for their research and try to promote Open Science along the way. One of my most successful moments at work was when a researcher concluded that writing good documentation is not just good for reproducibility purposes, but would also make it easier for them to remind themselves what they did.\n\n\nStephanie van de Sandt\n\nAffiliation: Vrije Universiteit Amsterdam\nRole: GHOST member, Training Coordinator\nORCID: 0000-0002-9576-1974\nFavourite game: Mansions of Madness, Sleeping Gods, Castles of Burgundy, … my game collection on BGG\nContributed to: Software Horror Escape Room, Open Science Against Humanity, Open Loves Science\n\nI work as an OS & RDM training coordinator at the VU University Library with a background in Library & Information Science. Supporting researchers by providing training so that they can help themselves is essential for my job, but I believe that training does not necessarily need to be bland and boring. Developing GHOST gamified training resources was not only a great learning experience for myself, but also helps to make our workshops more attractive and to raise awareness around OS, RDM, and Software Management.\n\n\nStefan Kirsch\n\nAffiliation: Tilburg University\nRole: GHOST member, Data Steward\nORCID: 0009-0009-6939-411X\nFavourite game: Dixit\nContributed to: Open Science Against Humanity, Open ♥ Science\n\nI have a PhD in Mechanical Engineering and I support researchers with scientific software engineering as well as making their workflows reproducible."
-  },
-  {
     "objectID": "contact-request.html",
     "href": "contact-request.html",
     "title": "Form to request games",
     "section": "",
     "text": "Form to request games\nYour data is transferred to a private Google Sheet via Sheet Monkey. You can see what information Sheet Monkey collects here.\n\n\n\nBasic information Name   Email    Postal address\n\n\n\n\nRequested games Open Science Against Humanity   Open Loves Science   What is the reason you are requesting games?"
+  },
+  {
+    "objectID": "games.html",
+    "href": "games.html",
+    "title": "Games",
+    "section": "",
+    "text": "To request games, use this form\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Horror Escape Room\n\n\nThe Data Horror Escape Room is an online game to explore the tricks and treats of research data management.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware Horror Escape Room\n\n\nThe Software Horror Escape Room is an online game to explore the tricks and treats of research software management.\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Escape Room\n\n\nThe Open Science Escape Room is an online game to explore the tricks and treats of Open Science.\n\n\n\n\n\n\n\n\n\n\nOpen Science Against Humanity\n\n\nOpen Science Against Humanity is a card game based on Cards Against Humanity, but with an Open Science twist!\n\n\n\n\n\n\n\n\n\n\nOpen ❤ Science\n\n\nOpen ❤ Science is an educational card game similar to Apples to Apples. It is designed to spark playful yet insightful dialogues about the Open Science movement.\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "success.html",
@@ -47,5 +40,12 @@
     "title": "Games of Horror for Open Science Training",
     "section": "",
     "text": "Thank you for your interest! We will get back to you as soon as possible."
+  },
+  {
+    "objectID": "contact-idea.html",
+    "href": "contact-idea.html",
+    "title": "Submit an idea for a game",
+    "section": "",
+    "text": "Submit an idea for a game\nUnder construction. In the meantime, you can contact us at rdm@vu.nl."
   }
 ]
