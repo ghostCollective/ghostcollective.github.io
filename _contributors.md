@@ -25,6 +25,13 @@ I have a PhD in archaeological science, and I work as a Data Steward at TU Delft
 promoting Open Science in my field and applying OS practises to my own research, as well as training researchers to use
 tools that can make their work more reproducible.
 
+### Lieke de Boer
+
+- Affiliation: Netherlands eScience Center
+- Role: GHOST member, Community Manager
+- ORCID: [0000-0003-3381-2040](https://orcid.org/0000-0003-3381-2040)
+- Favourite game: Codenames
+- Contributed to: Software Horror Escape Room, Open Science Against Humanity, Open Loves Science
 
 ### Stefan Kirsch
 
