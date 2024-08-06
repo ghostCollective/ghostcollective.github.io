@@ -64,3 +64,13 @@ I am a Data Steward in the VU University Library and have a background in histor
 - Contributed to: Software Horror Escape Room, Open Science Against Humanity, Open Loves Science
 
 I work as an OS & RDM training coordinator at the VU University Library with a background in Library & Information Science. Supporting researchers by providing training so that they can help themselves is essential for my job, but I believe that training does not necessarily need to be bland and boring. Developing GHOST gamified training resources was not only a great learning experience for myself, but also helps to make our workshops more attractive and to raise awareness around OS, RDM, and Software Management.
+
+### Tycho Hofstra 
+
+- Affiliation: Vrije Universiteit Amsterdam
+- Role: GHOST member, Data Steward
+- ORCID: [0009-0009-7320-864X](https://orcid.org/0009-0009-7320-864X)
+- Favourite game: Dominion
+- Contributed to: Software Horror Escape Room, Open Science Against Humanity, Open Loves Science
+
+I am a Data Steward & OS advocate at the VU University Library. Together with my colleague I provide courses on Writing a Data Management Plan, Open Science and all sorts of RDM affiliated subjects. As long as your question is not substantially about your research itself, I can probably help you further. Fun fact: I've never won Dominion, even though it is my favorite game.
