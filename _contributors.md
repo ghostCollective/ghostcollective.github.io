@@ -74,3 +74,12 @@ I work as an OS & RDM training coordinator at the VU University Library with a b
 - Contributed to: Software Horror Escape Room, Open Science Against Humanity, Open Loves Science
 
 I am a Data Steward & OS advocate at the VU University Library. Together with my colleague I provide courses on Writing a Data Management Plan, Open Science and all sorts of RDM affiliated subjects. As long as your question is not substantially about your research itself, I can probably help you further. Fun fact: I've never won Dominion, even though it is my favorite game.
+
+### Meron Vermaas
+
+- Affiliation: Vrije Universiteit Amsterdam
+- Role: GHOST member, Research Software Management Coordinator
+- ORCID [0009-0007-0249-1957](https://orcid.org/0009-0007-0249-1957)
+- Favourite game: Space Alert
+- Contributed to: Software Horror Escape Room, Open Science Against Humanity, Open Loves Science
+- 
