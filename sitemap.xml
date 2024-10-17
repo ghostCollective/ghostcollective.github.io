@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ghostcollective.github.io/index.html</loc>
-    <lastmod>2024-09-03T07:52:58.335Z</lastmod>
-  </url>
-  <url>
     <loc>https://ghostcollective.github.io/contact.html</loc>
-    <lastmod>2024-09-03T07:52:58.335Z</lastmod>
+    <lastmod>2024-10-17T08:48:26.564Z</lastmod>
   </url>
   <url>
-    <loc>https://ghostcollective.github.io/games.html</loc>
-    <lastmod>2024-09-03T07:52:58.335Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghostcollective.github.io/success.html</loc>
-    <lastmod>2024-09-03T07:52:58.335Z</lastmod>
+    <loc>https://ghostcollective.github.io/index.html</loc>
+    <lastmod>2024-10-17T08:48:26.568Z</lastmod>
   </url>
   <url>
     <loc>https://ghostcollective.github.io/contact-idea.html</loc>
-    <lastmod>2024-09-03T07:52:58.335Z</lastmod>
+    <lastmod>2024-10-17T08:48:26.564Z</lastmod>
   </url>
   <url>
     <loc>https://ghostcollective.github.io/contact-request.html</loc>
-    <lastmod>2024-09-03T07:52:58.335Z</lastmod>
+    <lastmod>2024-10-17T08:48:26.564Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghostcollective.github.io/games.html</loc>
+    <lastmod>2024-10-17T08:48:26.564Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghostcollective.github.io/success.html</loc>
+    <lastmod>2024-10-17T08:48:26.568Z</lastmod>
   </url>
 </urlset>
