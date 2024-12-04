@@ -31,7 +31,7 @@
   description: |
     Open ❤ Science is an educational card game similar to Apples to Apples.
     It is designed to spark playful yet insightful dialogues about the Open Science movement.
-  image: img/OLS2.png
+  image: img/OLS.png
   path: https://nlesc.github.io/open-loves-science/
   categories: [Cards]
 - title: Open Science Alliance
