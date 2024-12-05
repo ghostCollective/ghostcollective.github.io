@@ -5,13 +5,16 @@ about:
   template: solana
   image: img/ghost.png
   links: 
+    - aria-label: Link to games page
+      text: "{{< fa ghost >}} Games"
+      href: games.qmd
     - icon: github
       aria-label: GitHub
       text: GitHub
       href: https://github.com/ghostCollective
 ---
 
-<br><br> 
+<br><br>
 
 ::: {#hero-heading}
 

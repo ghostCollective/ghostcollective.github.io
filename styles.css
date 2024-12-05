@@ -3,3 +3,7 @@
 .navbar-logo {
     max-height: 36px; 
 }
+
+.about-link {
+    font-size: 1em !important;
+}
