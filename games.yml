@@ -25,7 +25,7 @@
     based on Cards Against Humanity, but with an
     Open Science twist!
   image: img/OSAH.png
-  path: https://github.com/ubvu/OpenScienceAgainstHumanity
+  path: https://github.com/ghostCollective/OpenScienceAgainstHumanity
   categories: [Cards]
 - title: "Open ❤ Science"
   description: |
