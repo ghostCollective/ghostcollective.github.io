@@ -35,6 +35,9 @@
   path: https://nlesc.github.io/open-loves-science/
   categories: [Cards]
 - title: Open Science Alliance
-  description: Coming soon...
+  description: |
+    Build the most successful research team over six rounds by collecting research output tokens
+    through strategic role development and collaboration.
   image: img/OSA.png
-  categories: [Cards]
+  path: https://github.com/ghostCollective/open-science-alliance/
+  categories: [Cards, Team Science]
