@@ -94,3 +94,10 @@ I am a Data Steward & OS advocate at the VU University Library. Together with my
 I’ve been involved in the _Horror Weeks_ since 2019, back when I was working at Utrecht University. I remember a meeting with colleagues from Utrecht and TU Delft where we discussed the international _Love Data Week_. We couldn’t help but laugh at how cheesy it was—it was obvious we needed a darker, edgier counterpart. That’s when the idea for _Data Horror Week_ was born. In the end of October 2019, we launched a national awareness campaign: a week-long social media campaign featuring stories from researchers about research data management (RDM) disasters, and the valuable lessons learned from those missteps.
 
 When I moved to VU Amsterdam in 2020, I was excited to carry the idea forward. I envisioned expanding _Data Horror Week_ into a fun and engaging national campaign. Of course, 2020 had other plans—everything had to go digital. But then Elisa Rondenburg came up with a brilliant idea: an online Escape Room. Thanks to connections we built in 2019, we managed to set up a collaboration between several institutions, and by Halloween, we had this fun and educative game ready to go. It was such a hit that we couldn’t stop there, and it sparked years of creative projects, combining *horror* RDM and Open Science in playful and engaging ways.
+
+### Eva Lekkerkerker
+- Affiliation: University of Amsterdam
+- Role: GHOST member, Training Coordinator
+- ORCID: [https://orcid.org/0009-0002-2158-8838](https://orcid.org/0009-0002-2158-8838)
+- Favourite game: Cards Against Humanity, Game Of Life, Rummikub
+- Contributed to: Open Science Against Humanity, Open Loves Science
