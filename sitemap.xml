@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ghostcollective.github.io/contact.html</loc>
-    <lastmod>2025-01-20T13:53:32.945Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghostcollective.github.io/contact-request.html</loc>
-    <lastmod>2025-01-20T13:53:32.945Z</lastmod>
-  </url>
-  <url>
     <loc>https://ghostcollective.github.io/contact-idea.html</loc>
-    <lastmod>2025-01-20T13:53:32.945Z</lastmod>
+    <lastmod>2025-06-13T07:44:00.373Z</lastmod>
   </url>
   <url>
     <loc>https://ghostcollective.github.io/success.html</loc>
-    <lastmod>2025-01-20T13:53:32.951Z</lastmod>
+    <lastmod>2025-06-13T07:44:00.379Z</lastmod>
   </url>
   <url>
     <loc>https://ghostcollective.github.io/index.html</loc>
-    <lastmod>2025-01-20T13:53:32.951Z</lastmod>
+    <lastmod>2025-06-13T07:44:00.378Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghostcollective.github.io/contact.html</loc>
+    <lastmod>2025-06-13T07:44:00.373Z</lastmod>
   </url>
   <url>
     <loc>https://ghostcollective.github.io/games.html</loc>
-    <lastmod>2025-01-20T13:53:32.945Z</lastmod>
+    <lastmod>2025-06-13T07:44:00.373Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghostcollective.github.io/contact-request.html</loc>
+    <lastmod>2025-06-13T07:44:00.373Z</lastmod>
   </url>
 </urlset>
