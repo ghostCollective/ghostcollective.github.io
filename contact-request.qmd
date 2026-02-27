@@ -1,5 +1,7 @@
 # Form to request games
 
+**Please note, we are currently unable to send games to addresses in the USA and United Kingdom.**
+
 Your data is transferred to a private Google Sheet via [Sheet Monkey](https://sheetmonkey.io/).
 You can see what information Sheet Monkey collects [here](https://docs.sheetmonkey.io/policies/what-permissions-are-required-to-use-sheet-monkey).
 
