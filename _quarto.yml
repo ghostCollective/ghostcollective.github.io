@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Games of Horror for Open Science Training"
+  favicon: img/ghost-logo.png
   search: false
   site-url: https://ghostcollective.github.io
   repo-url: https://github.com/ghostCollective/ghostcollective.github.io
